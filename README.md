@@ -1,2 +1,2 @@
-# IMB-Data-Science
+# IBM-Data-Science
 IMB Data Science
